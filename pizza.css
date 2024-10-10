@@ -1,0 +1,31 @@
+*{
+    overflow-x: hidden;
+}
+body{
+    background-image: url(../images/thumb-1920-1290151.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn{
+    margin-left: 600px;
+    border-radius: 30px;
+}
+ol{
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: aliceblue;
+    margin-right:600px;
+    border-radius: 20px;
+}
+.ul{
+font-weight: 900;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+background-color: aliceblue;
+margin-right: 750px;
+border-radius: 20px;
+}
+.h2{
+    border-radius: 30px;
+}
